@@ -19,6 +19,13 @@ body {
 	padding: 10px 10px;
 	color: #302265;
 	border-top: 2px solid #9722F2;
+	font-size: 13px;
+	/*height: 0;*/
+	opacity: 0;
+}
+
+.active {
+	height: 200px;
 }
 
 .navbar-default {
