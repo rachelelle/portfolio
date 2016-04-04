@@ -2,14 +2,14 @@
 
   <div class="container">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+       <!--  <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+        </ul> -->
       </div>
 
       <div class="footer-col footer-col-2">
@@ -28,8 +28,16 @@
         </ul> -->
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="footer-col footer-col-3 pull-right">
+        <ul class="list-inline">
+          {% for network in site.social %}
+          <li>
+            <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-lg fa-{{ network.title }}"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+
+        <!-- <p>{{ site.description }}</p> -->
       </div>
     </div>
 

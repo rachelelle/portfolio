@@ -4,6 +4,7 @@ title:  ThredUP Personal Shops 2.0
 date:   2016-04-02 14:22:04 -0700
 categories: ux
 thumbnail: thredup-ps.png
+main-img: thredup-ps.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

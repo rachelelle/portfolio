@@ -18,6 +18,18 @@ url: "http://rachellin.me" # the base hostname & protocol for your site
 twitter_username: rchlelle
 github_username:  rachelelle
 
+social:
+  - title: twitter
+    url: http://twitter.com/rchlelle
+  - title: facebook
+    url: http://facebook.com/lin.rachel
+  - title: linkedin
+    url: http://linkedin.com/pub/rachel-lin/33/881/803/
+  - title: behance
+    url: http://behance.net/rachelelle
+  - title: github
+    url: http://github.com/rachelelle
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/

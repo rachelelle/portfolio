@@ -7,9 +7,10 @@ permalink: /ux/
 
 
 {% for post in site.categories.ux %}
-	<div class="col-sm-4 portfolio-item">
+	 <div class="col-sm-4 portfolio-item">
           <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
               <div class="caption">
+                {{ post.title }}
               </div>
               <img src="/img/portfolio/{{ post.thumbnail }}" alt="{{ post.alt }}">
           </a>

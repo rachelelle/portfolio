@@ -3,6 +3,14 @@ body {
 	background-color: #F5F5F5;
 }
 
+@media (min-width: 1200px)
+{
+	.container {
+    width: 1170px;
+    /*background-color: #fff;*/
+	}	
+}
+
 .portfolio-item {
     height: 260px;
     overflow: hidden;
@@ -46,7 +54,7 @@ body {
 .navbar {
     position: relative;
     min-height: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 img.logo {
@@ -81,4 +89,49 @@ img.logo {
 	.col-sm-4 {
 	    width: 32.333333%;
 	}
+}
+
+/*article.post {
+    padding: 0px 200px;
+}*/
+
+.post-container {
+    padding: 0px 150px;
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+
+.post-main-title {
+    position: absolute;
+    bottom: 40px;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    text-align: center;
+    /* width: 100%; */
+    font-size: 22px;
+    border-bottom: 2px solid #9722F2;
+    background-color: rgba(255, 255, 255, 0.73);
+    padding-left: 33px;
+    padding-right: 10px;
+    line-height: 50px;
+}
+
+.img-container {
+    position: relative;
+}
+
+.post-img{
+	min-width:100%;
+}
+
+.btn-social {
+    color: #9722F2;
+}
+
+.btn-social:hover {
+    color: #9722F2;
+}
+
+footer.site-footer {
+    margin-top: 20px;
 }
