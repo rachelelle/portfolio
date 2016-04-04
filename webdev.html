@@ -1,0 +1,14 @@
+---
+layout: page
+title: Web Development
+permalink: /webdev/
+---
+{% for post in site.categories.webdev %}
+	<div class="col-sm-4 portfolio-item">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
+              <div class="caption">
+              </div>
+              <img src="/img/portfolio/{{ post.thumbnail }}" alt="{{ post.alt }}">
+          </a>
+      </div>
+{% endfor %}

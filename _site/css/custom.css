@@ -1,0 +1,23 @@
+body{
+	font-family: 'Montserrat', san-serif;
+	background-color: #F5F5F5;
+}
+
+.portfolio-item {
+    height: 260px;
+    overflow: hidden;
+}
+
+.caption{
+	position:absolute;
+	bottom: 0;
+	background-color: #fff;
+	width: 100%;
+	padding: 10px 10px;
+}
+
+@media (min-width: 768px){
+	.col-sm-4 {
+	    width: 32.333333%;
+	}
+}

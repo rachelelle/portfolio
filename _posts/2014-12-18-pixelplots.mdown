@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Pixel Plots
+date:   2014-12-18 14:22:04 -0700
+categories: webdev
+thumbnail: pixelplots.png
+---
+
+Group final project for the Rails Decal. Users can create their own unique grid designs by clicking on the pixel to either fill in it or remove the color. Users can upvote or downvote other users' plots.
