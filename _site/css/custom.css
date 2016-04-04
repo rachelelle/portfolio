@@ -38,11 +38,11 @@ body {
 
 .navbar-default {
     background-color: #FFFFFF;
-    border-bottom: 7px solid #9722F2;
+    border-bottom: 3px solid #9722F2;
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #9722F2;
+    color: #9B9B9B;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -54,7 +54,7 @@ body {
 .navbar {
     position: relative;
     min-height: 40px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 img.logo {
@@ -99,6 +99,7 @@ img.logo {
     padding: 0px 150px;
     background-color: #fff;
     padding-bottom: 50px;
+    border-radius: 2px;
 }
 
 .post-main-title {
@@ -110,14 +111,25 @@ img.logo {
     /* width: 100%; */
     font-size: 22px;
     border-bottom: 2px solid #9722F2;
-    background-color: rgba(255, 255, 255, 0.73);
+    background-color: rgba(255, 255, 255, 0.91);
     padding-left: 33px;
     padding-right: 10px;
     line-height: 50px;
+    color: #2C3E50;
+    box-shadow: 0px 1px 3px #999;
+}
+
+.portfolio-content {
+    margin-top: 50px;
+    color: #797979;
+    font-family: 'Oxygen', sans-serif;
+    line-height: 26px;
+    font-size: 16px;
 }
 
 .img-container {
     position: relative;
+    padding-top: 20px;
 }
 
 .post-img{
@@ -134,4 +146,11 @@ img.logo {
 
 footer.site-footer {
     margin-top: 20px;
+}
+
+h1.category-title {
+    background: #fff;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 2px;
 }
