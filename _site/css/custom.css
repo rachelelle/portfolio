@@ -16,6 +16,10 @@ body{
 	padding: 10px 10px;
 }
 
+img.logo {
+    width: 48%;
+}
+
 @media (min-width: 768px){
 	.col-sm-4 {
 	    width: 32.333333%;
