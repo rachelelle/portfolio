@@ -108,13 +108,13 @@ img.logo {
     position: absolute;
     /* margin-left: auto; */
     /* margin-right: auto; */
-    bottom: 60px;
+    bottom: 70px;
     text-align: center;
     /* width: 100%; */
     /* right: 0; */
-    font-size: 23px;
+    font-size: 24px;
     /* border-bottom: 2px solid #BA6FF5; */
-    background-color: rgb(131, 93, 160);
+    background-color: rgba(131, 93, 160, 0.9);
     padding-left: 36px;
     padding-right: 20px;
     padding: 6px 46px;
