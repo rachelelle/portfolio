@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="clearfix row">
 <div class="col-md-5 profile-image">
-	<img src="/img/about/rachel.jpg" class="img-responsive">
+	<img src="{{ site.baseurl }}/img/about/rachel.jpg" class="img-responsive">
 </div>
 
 <div class="col-md-4 about-grid" id="name-card">
