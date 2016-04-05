@@ -6,21 +6,26 @@
 </description>
     <link>/portfolio/</link>
     <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Apr 2016 14:26:37 -0700</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 14:26:37 -0700</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2016 16:32:39 -0700</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 16:32:39 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>ThredUP Zendesk</title>
         <description>&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-6 project-problem center-block&quot;&gt;
-  		&lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
-  		Onboarding only consisted of 5% of users.
+  &lt;div class=&quot;col-md-12 project-summary&quot;&gt;
+  I redesigned the ThredUP Support Page.
   &lt;/div&gt;
-  &lt;div class=&quot;col-md-5 project-role center-block&quot;&gt;
-  	&lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
-  		My role was conducting user research and studies.
-  	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-6 project-problem&quot;&gt;
+      &lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
+      Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
+  &lt;/div&gt;
+  &lt;div class=&quot;col-md-6 project-role&quot;&gt;
+    &lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
+      My role was conducting user research and studies.
+    &lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -31,20 +36,25 @@ I first pulled current data on users with Personal Shops.
 &lt;/section&gt;
 
 &lt;section&gt;
-	&lt;h1 class=&quot;section-title&quot;&gt;Prototype v 1.0&lt;/h1&gt;
-	View the first iteration &lt;a href=&quot;http://share.framerjs.com/y2r6k8czd5k7/&quot;&gt;here&lt;/a&gt;.
+  &lt;h1 class=&quot;section-title&quot;&gt;Prototype v 1.0&lt;/h1&gt;
+  View the first iteration &lt;a href=&quot;http://share.framerjs.com/y2r6k8czd5k7/&quot;&gt;here&lt;/a&gt;.
+  &lt;br /&gt;
+  After testing my app, I&#39;ve learned the importance of 
+
+  &lt;li&gt;Simplifying elements&lt;/li&gt;
+  &lt;li&gt;Working&lt;/li&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
   &lt;h1 class=&quot;section-title&quot;&gt;Prototype v 2.0&lt;/h1&gt;
-	See my prototype &lt;a href=&quot;http://share.framerjs.com/daab0qd1fmzh/&quot;&gt;here&lt;/a&gt;.
+  See my prototype &lt;a href=&quot;http://share.framerjs.com/daab0qd1fmzh/&quot;&gt;here&lt;/a&gt;.
 &lt;/section&gt;
 
 &lt;section&gt;
 &lt;h1 class=&quot;section-title&quot;&gt;Takeaways&lt;/h1&gt;
-	&lt;li&gt;Lesson #1&lt;/li&gt;
-	&lt;li&gt;Lesson #2&lt;/li&gt;
-	&lt;li&gt;Lesson #3&lt;/li&gt;
+  &lt;li&gt;Lesson #1&lt;/li&gt;
+  &lt;li&gt;Lesson #2&lt;/li&gt;
+  &lt;li&gt;Lesson #3&lt;/li&gt;
 &lt;/section&gt;
 </description>
         <pubDate>Sat, 02 Apr 2016 14:22:04 -0700</pubDate>
@@ -73,13 +83,13 @@ I first pulled current data on users with Personal Shops.
         <title>ThredUP Personal Shops 2.0</title>
         <description>&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-12 project-summary&quot;&gt;
-  Summary
+  During my summer internship at ThredUP, the world&#39;s largest online fashion resale shop,  I was responsible for redesigning Personal Shops, a personalization feature that bookmarks product filters.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-6 project-problem&quot;&gt;
   		&lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
-  		Onboarding only consisted of 5% of users.
+  		Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
   &lt;/div&gt;
   &lt;div class=&quot;col-md-6 project-role&quot;&gt;
   	&lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
@@ -97,6 +107,11 @@ I first pulled current data on users with Personal Shops.
 &lt;section&gt;
 	&lt;h1 class=&quot;section-title&quot;&gt;Prototype v 1.0&lt;/h1&gt;
 	View the first iteration &lt;a href=&quot;http://share.framerjs.com/y2r6k8czd5k7/&quot;&gt;here&lt;/a&gt;.
+  &lt;br /&gt;
+  After testing my app, I&#39;ve learned the importance of 
+
+  &lt;li&gt;Simplifying elements&lt;/li&gt;
+  &lt;li&gt;Working&lt;/li&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
