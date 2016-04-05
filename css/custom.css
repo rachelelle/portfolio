@@ -179,10 +179,10 @@ h1.category-title {
 .project-problem {
     background-color: #4A494A;
     color: #FDF8F8;
-    margin-right: 20px;
+    /* margin-right: 20px; */
     border-radius: 2px;
     padding: 20px;
-    margin-left: 20px;
+    /* margin-left: 20px; */
 }
 
 .project-role {
@@ -190,6 +190,12 @@ h1.category-title {
     color: #9B9B9B;
     border-radius: 2px;
     padding: 20px;
+}
+
+.project-summary {
+    background-color: #8F6CA9;
+    color: white;
+    padding: 20px 35px;
 }
 
 
@@ -277,13 +283,14 @@ section a:hover {
 h1.about {
     margin: 0px;
     font-size: 28px;
+    font-family: 'Montserrat';
 }
 
 h2.about {
     margin: 0px 0px;
     font-family: 'Oxygen', sans-serif;
-    font-size: 21px;
-    /* line-height: 9px; */
+    font-size: 20px;
+    /* line-height: 7px; */
     font-weight: 200;
     letter-spacing: 1px;
     /* font-style: inherit; */
@@ -300,11 +307,14 @@ h2.block-title {font-family: 'Montserrat';margin: 0px;font-size: 20px;}
 #name-card {
     background-color: #835DA0;
     color: #fff;
+    line-height: 5px;
 }
 
 div#skills {
     background-color: #835DA0;
     color: #fff;
+    font-family: 'Oxygen';
+    letter-spacing: 0.5px;
 }
 
 div#experience {
@@ -328,4 +338,20 @@ div#education {
 
 .about {
     line-height: 30px;
+}
+
+h3.about{
+    font-size: 20px;
+    margin: 0;
+}
+
+h3.skill-title{
+	/* margin: 10px; */
+	font-size: 15px;
+	font-weight: 600;
+	/* padding-left: 5px; */
+}
+
+h4.about{
+    margin-top: 30px;
 }

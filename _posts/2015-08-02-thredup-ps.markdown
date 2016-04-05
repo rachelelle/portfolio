@@ -7,13 +7,17 @@ label: UX Design, Mobile Design
 thumbnail: thredup-ps.png
 main-img: thredup-ps.png
 ---
-
 <div class="row">
-  <div class="col-md-6 project-problem center-block">
+  <div class="col-md-12 project-summary">
+  Summary
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6 project-problem">
   		<h2 class="block-title">Problem</h2>
   		Onboarding only consisted of 5% of users.
   </div>
-  <div class="col-md-5 project-role center-block">
+  <div class="col-md-6 project-role">
   	<h2 class="block-title">Role</h2>
   		My role was conducting user research and studies.
   	</div>
