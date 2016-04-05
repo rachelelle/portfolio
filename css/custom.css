@@ -193,6 +193,26 @@ h1.category-title {
 	margin-right: 0px;
 }
 
+.prev-next-block {
+    background-color: #BA6FF5;
+    color: #fff;
+    padding: 15px;
+    border-radius: 2px;
+}
+
+.nav-pagination a:link {
+	color: #fff;
+}
+
+.nav-pagination a:hover {
+	color: #fff;
+}
+
+.nav-pagination {
+    margin-top: 50px;
+}
+
+
 h1.section-title {
 	font-family: 'Montserrat',sans-serif;
 	font-size: 26px;
