@@ -13,10 +13,10 @@ permalink: /about/
 	<br>
 	<h2 class="about">Designer + Developer</h2>
 	<br>
-	<h2 class="about">Bay Area, born & bred</h2>
+	<h2 class="about">San Francisco Bay Area</h2>
 	<br>
-	<h2 class="about">Media Studies + CS at Cal</h2>
-	<h4>&hearts; art history, fashion, badminton</h4>
+	<h2 class="about">Media Studies + CS</h2>
+	<h4 class="about">&hearts; art history, fashion, badminton, coffee, cooking, and baking</h4>
 </div>
 <div class="col-md-3 about-grid" id="contact">
 		<h1 class="about">Let's Talk!</h1>
@@ -30,10 +30,17 @@ permalink: /about/
 	<div class="col-md-4 about-grid" id="skills">
 		<h1 class="about">Skills</h1>
 		<br>
-			<h3>Visual Design</h3>
-			<h3>User Research</h3>
-			<h3>Prototyping</h3>
-			<h3>Programming</h3>
+		<h3 class="skill-title">Visual Design</h3>
+		Photoshop, Illustrator, Sketch
+			
+		<h3 class="skill-title">Interaction Design</h3>
+		User Research, Prototyping, User Testing
+
+		<h3 class="skill-title">Web Development</h3>
+		HTML, CSS, JavaScript/jQuery, Ruby on Rails
+			</ul>
+		<h3 class="skill-title">Programming</h3>
+			Python, Java, Android
 	</div>	
 
 	<div class="col-md-8" id="about-grid-2">
@@ -56,8 +63,8 @@ permalink: /about/
 				<br>
 				<h2 class="about">UC Berkeley</h2>
 				<h2 class="about">Graduating May 2016</h2>
-				<h3>B.A. Media Studies</h3>
-				<h3>Computer Science Minor</h3>
+				<h3 class="about">B.A. Media Studies</h3>
+				<h3 class="about">Computer Science Minor</h3>
 			</div>	
 		</div>
 	</div>		
