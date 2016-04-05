@@ -6,15 +6,43 @@ categories: ux
 thumbnail: thredup-ps.png
 main-img: thredup-ps.png
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<div class="row">
+  <div class="col-md-6 project-problem center-block">
+  		<h2 class="block-title">Problem</h2>
+  		Onboarding only consisted of 5% of users.
+  </div>
+  <div class="col-md-5 project-role center-block">
+  	<h2 class="block-title">Role</h2>
+  		My role was conducting user research and studies.
+  	</div>
 
-Jekyll also offers powerful support for code snippets:
+</div>
+
+<section>
+<h1 class="section-title">User Research</h1>
+
+I first pulled current data on users with Personal Shops. 
+</section>
+
+<section>
+<h1 class="section-title">First Prototype</h1>
 
 <a href="http://google.com">Google</a>
+</section>
 
-{% highlight ruby %}
+<h1 class="section-title">Prototype</h1>
+
+See my prototype here: 
+
+<h1 class="section-title">Takeaways</h1>
+
+<li>Lesson #1</li>
+<li>Lesson #2</li>
+<li>Lesson #3</li>
+
+
+<!-- {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
@@ -26,4 +54,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
