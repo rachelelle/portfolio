@@ -230,3 +230,31 @@ section a:link {
 	text-decoration: underline;
 	font-weight: 400;
 }
+
+.profile-image {
+    border: 8px solid #fff;
+    border-radius: 2px;
+    height: 50p;
+    padding: 0px;
+    height: 100p;
+}
+
+.about-grid {
+    background-color: #fff;
+    margin: 0 20px;
+    padding: 23px;
+}
+
+h1.about {
+    margin: 0px;
+    font-size: 28px;
+}
+
+h2.about {
+    margin: 0px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 24px;
+    line-height: 4px;
+}
+
+h2.block-title {font-family: 'Montserrat';margin: 0px;font-size: 24px;}
