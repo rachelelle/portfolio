@@ -193,6 +193,16 @@ h1.category-title {
 .row {
 	margin-left: 0px;
 	margin-right: 0px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display:         flex;
+	flex-wrap: wrap;
+}
+
+.row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
 }
 
 .prev-next-block {
@@ -248,9 +258,11 @@ section a:hover {
 }
 
 .about-grid {
-    background-color: #fff;
-    margin: 0 20px;
+    background-color: #DEDEDE;
+    /* margin: 0 20px; */
     padding: 23px;
+    line-height: 14px;
+    border-radius: 2px;
 }
 
 h1.about {
@@ -259,10 +271,13 @@ h1.about {
 }
 
 h2.about {
-    margin: 0px;
+    margin: 0px 0px;
     font-family: 'Oxygen', sans-serif;
-    font-size: 24px;
-    line-height: 4px;
+    font-size: 21px;
+    /* line-height: 9px; */
+    font-weight: 200;
+    letter-spacing: 1px;
+    /* font-style: inherit; */
 }
 
 h2.block-title {font-family: 'Montserrat';margin: 0px;font-size: 20px;}
@@ -271,4 +286,28 @@ h2.block-title {font-family: 'Montserrat';margin: 0px;font-size: 20px;}
 .page-content {
     position: relative;
     margin-top: 60px;
+}
+
+#name-card {
+    background-color: #77016A;
+    color: #fff;
+}
+
+div#skills {
+    background-color: #77016A;
+    color: #fff;
+}
+
+div#experience {
+    background-color: #FFF;
+    color: #666;
+}
+
+div#education {
+    /* padding: 0; */
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #DEDEDE;
+    color: #77016A;
 }
