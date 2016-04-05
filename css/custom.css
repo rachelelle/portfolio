@@ -25,7 +25,7 @@ body {
 	background-color: #fff;
 	width: 100%;
 	padding: 10px 10px;
-	color: #302265;
+	color: #666;
 	border-top: 2px solid #BA6FF5;
 	font-size: 13px;
 	/*height: 0;*/
@@ -39,10 +39,11 @@ body {
 .navbar-default {
     background-color: #FFFFFF;
     border-bottom: 3px solid #BA6FF5;
+    position: fixed;
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #9B9B9B;
+    color: #666;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -52,7 +53,7 @@ body {
 }
 
 .navbar {
-    position: relative;
+    /* position: relative; */
     min-height: 40px;
     margin-bottom: 20px;
 }
@@ -100,6 +101,7 @@ img.logo {
     background-color: #fff;
     padding-bottom: 50px;
     border-radius: 2px;
+    margin-top: 20px;
 }
 
 .post-main-title {
@@ -215,7 +217,7 @@ h1.category-title {
 
 h1.section-title {
 	font-family: 'Montserrat',sans-serif;
-	font-size: 26px;
+	font-size: 24px;
 	text-align: center;
 	margin: 21px 0px;
 }
@@ -224,11 +226,17 @@ section {
     margin: 50px 0px;
 }
 
-section a:link {
+section a {
 	font-family: 'Oxygen', sans-serif;
 	color: #791DC1;
+	text-decoration: none;
+	font-weight: 600; 
+}
+
+section a:hover {
 	text-decoration: underline;
-	font-weight: 400;
+	color: #791DC1;
+	transition: 0.4s;
 }
 
 .profile-image {
@@ -257,4 +265,10 @@ h2.about {
     line-height: 4px;
 }
 
-h2.block-title {font-family: 'Montserrat';margin: 0px;font-size: 24px;}
+h2.block-title {font-family: 'Montserrat';margin: 0px;font-size: 20px;}
+
+
+.page-content {
+    position: relative;
+    margin-top: 60px;
+}

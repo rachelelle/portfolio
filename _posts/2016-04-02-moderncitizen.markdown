@@ -3,6 +3,7 @@ layout: post
 title:  Modern Citizen
 date:   2014-07-02 14:22:04 -0700
 categories: webdev
+label: Web Development (Shopify)
 thumbnail: MC.png
 ---
 

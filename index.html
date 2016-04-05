@@ -19,8 +19,10 @@ layout: default
           <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
               <div class="caption">
                 {{ post.title }}
+                <br>
+                {{ post.label }}
               </div>
-              <img src="img/portfolio/{{ post.thumbnail }}" alt="{{ post.alt }}">
+              <img src="/img/portfolio/{{ post.thumbnail }}" alt="{{ post.alt }}">
           </a>
       </div>
     {% endfor %}

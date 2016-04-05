@@ -3,6 +3,7 @@ layout: post
 title:  ThredUP Personal Shops 2.0
 date:   2016-04-02 14:22:04 -0700
 categories: ux
+label: UX Design, Mobile Design
 thumbnail: thredup-ps.png
 main-img: thredup-ps.png
 ---
@@ -26,20 +27,23 @@ I first pulled current data on users with Personal Shops.
 </section>
 
 <section>
-<h1 class="section-title">First Prototype</h1>
-
-<a href="http://google.com">Google</a>
+	<h1 class="section-title">Prototype v 1.0</h1>
+	View the first iteration <a href="http://share.framerjs.com/y2r6k8czd5k7/">here</a>.
 </section>
 
-<h1 class="section-title">Prototype</h1>
+<section>
+  <h1 class="section-title">Prototype v 2.0</h1>
+	See my prototype <a href="http://share.framerjs.com/daab0qd1fmzh/">here</a>.
+</section>
 
-See my prototype here: 
-
+<section>
 <h1 class="section-title">Takeaways</h1>
+	<li>Lesson #1</li>
+	<li>Lesson #2</li>
+	<li>Lesson #3</li>
+</section>
 
-<li>Lesson #1</li>
-<li>Lesson #2</li>
-<li>Lesson #3</li>
+
 
 
 <!-- {% highlight ruby %}
