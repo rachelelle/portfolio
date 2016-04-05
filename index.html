@@ -22,7 +22,7 @@ layout: default
                 <br>
                 {{ post.label }}
               </div>
-              <img src="/img/portfolio/{{ post.thumbnail }}" alt="{{ post.alt }}">
+              <img src="/img/portfolio/{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.alt }}">
           </a>
       </div>
     {% endfor %}
