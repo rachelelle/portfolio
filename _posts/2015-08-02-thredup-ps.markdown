@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ThredUP Personal Shops 2.0
-date:   2016-04-02 14:22:04 -0700
+date:   2015-08-02 14:22:04 -0700
 categories: ux
 label: UX Design, Mobile Design
 thumbnail: thredup-ps.png
