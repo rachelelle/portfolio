@@ -2,7 +2,7 @@
 layout: post
 title:  ThredUP Zendesk
 date:   2016-04-02 14:22:04 -0700
-categories: ux, webdev
+categories: ux
 label: UX Design, Web Design, Iconography
 thumbnail: tusupport_thumb.png
 main-img: tusupport_thumb.png
