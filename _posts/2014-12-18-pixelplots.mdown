@@ -7,5 +7,6 @@ label: Ruby on Rails App
 thumbnail: pixelplot-thumbnail.png
 main-img: pixelplots.png
 ---
-
-Group final project for the Rails Decal. Users can create their own unique grid designs by clicking on the pixel to either fill in it or remove the color. Users can upvote or downvote other users' plots.
+<section>
+	<a href="https://pixelplots.herokuapp.com/">Pixel Plots</a> is a Ruby on Rails app in which users can create their own unique grid designs by clicking on the pixel to either fill in it or remove the color. Users can upvote or downvote other users' plots. My main role was implementing the front-end.
+</section>
