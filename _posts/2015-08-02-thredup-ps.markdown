@@ -9,13 +9,13 @@ main-img: thredup-ps.png
 ---
 <div class="row">
   <div class="col-md-12 project-summary">
-  Summary
+  During my summer internship at ThredUP, the world's largest online fashion resale shop,  I was responsible for redesigning Personal Shops, a personalization feature that bookmarks product filters.
   </div>
 </div>
 <div class="row">
   <div class="col-md-6 project-problem">
   		<h2 class="block-title">Problem</h2>
-  		Onboarding only consisted of 5% of users.
+  		Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
   </div>
   <div class="col-md-6 project-role">
   	<h2 class="block-title">Role</h2>
@@ -33,6 +33,11 @@ I first pulled current data on users with Personal Shops.
 <section>
 	<h1 class="section-title">Prototype v 1.0</h1>
 	View the first iteration <a href="http://share.framerjs.com/y2r6k8czd5k7/">here</a>.
+  <br>
+  After testing my app, I've learned the importance of 
+
+  <li>Simplifying elements</li>
+  <li>Working</li>
 </section>
 
 <section>
