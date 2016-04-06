@@ -13,7 +13,7 @@ permalink: /about/
 	<br>
 	<h2 class="about">Designer + Developer</h2>
 	<br>
-	<h2 class="about">San Francisco Bay Area</h2>
+	<h2 class="about">Bay Area native</h2>
 	<br>
 	<h2 class="about">Media Studies + CS</h2>
 	<h4 class="about">&hearts; art history, fashion, badminton, coffee, cooking, and baking</h4>
