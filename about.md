@@ -51,7 +51,7 @@ permalink: /about/
 				<h2 class="about">
 					Product Intern at <a href="http://thredup.com">thredUP</a> • <i>June 2015-Present</i>
 					<br>
-					UI/UX Consultant at <a href="http://westfiedlabs.com">Westfield Labs</a> • <i>September 2015-Present</i>
+					UI/UX Consultant at <a href="http://westfieldlabs.com">Westfield Labs</a> • <i>September 2015-Present</i>
 					<br>
 					Web Development Intern at <a href="http://modern-citizen.com">Modern Citizen</a> • <i>June 2014-August 2014</i>
 				</h2>
