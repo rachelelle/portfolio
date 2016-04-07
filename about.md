@@ -5,6 +5,7 @@ permalink: /about/
 ---
 <div class="clearfix row">
 <div class="col-md-5 profile-image">
+	<div class="about-img-caption">Photo by Jeremy Hsu</div>
 	<img src="{{ site.baseurl }}/img/about/rachel.jpg" class="img-responsive">
 </div>
 
@@ -13,7 +14,7 @@ permalink: /about/
 	<br>
 	<h2 class="about">Designer + Developer</h2>
 	<br>
-	<h2 class="about">Bay Area native</h2>
+	<h2 class="about">SF Bay Area native</h2>
 	<br>
 	<h2 class="about">INFJ</h2>
 	<h4 class="about"><i class="fa fa-heart fa-fw"></i>  art history, fashion, badminton, coffee, cooking, and baking</h4>
