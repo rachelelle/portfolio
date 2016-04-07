@@ -1,38 +1,37 @@
 ---
 layout: post
-title:  ThredUP Zendesk
+title:  ThredUP Support
 date:   2016-04-02 14:22:04 -0700
 categories: ux
-label: UX Design, Web Design
+label: UX Design, Web Design, Iconography
 thumbnail: tusupport_thumb.png
 main-img: tusupport_thumb.png
+external_url: http://support.thredup.com
 ---
 
-<div class="row">
-  <div class="col-md-12 project-summary">
+<section>
   I redesigned the ThredUP Support Page.
-  </div>
-</div>
+</section>
+
 <div class="row">
   <div class="col-md-6 project-problem">
       <h2 class="block-title">Problem</h2>
-      Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
+      Users would directly email the Support team to ask simple questions that had already been answered on Zendesk.
   </div>
   <div class="col-md-6 project-role">
     <h2 class="block-title">Role</h2>
-      My role was conducting user research and studies.
-    </div>
-
+      Creating additional iconography and implementing the frontend.
+  </div>
 </div>
 
 <section>
-<h1 class="section-title">User Research</h1>
+<h1 class="section-title">Wireframing</h1>
 
 I first pulled current data on users with Personal Shops. 
 </section>
 
 <section>
-  <h1 class="section-title">Prototype v 1.0</h1>
+  <h1 class="section-title">Prototyping</h1>
   View the first iteration <a href="http://share.framerjs.com/y2r6k8czd5k7/">here</a>.
   <br>
   After testing my app, I've learned the importance of 
@@ -42,9 +41,20 @@ I first pulled current data on users with Personal Shops.
 </section>
 
 <section>
-  <h1 class="section-title">Prototype v 2.0</h1>
-  See my prototype <a href="http://share.framerjs.com/daab0qd1fmzh/">here</a>.
+  <h1 class="section-title">Iconography</h1>
+  
 </section>
+
+<section>
+  <h1 class="section-title">Final Product</h1>
+  View the final Support Website <a href="{{ page.external_url }}">here</a>.
+  <br>
+  After testing my app, I've learned the importance of 
+
+  <li>Simplifying elements</li>
+  <li>Working</li>
+</section>
+
 
 <section>
 <h1 class="section-title">Takeaways</h1>
