@@ -6,6 +6,13 @@ categories: ux
 label: UX Design, Raspberry Pi
 thumbnail: trashscan_thumb.png
 main-img: trashscan_thumb.png
+external_url: http://www.hackster.io/trashscan/trashscan-3ca9fe
 ---
+<section>
+A more detailed write-up can be found <a href="{{ page.external_url }}">here</a>. 
+<br>
+TrashScan has been featured as a <a href="http://jacobsinstitute.berkeley.edu/student-project/trashscan/">Project Spotlight</a> for the Jacobs Institute for Design Innovation.
 
-TrashScan! 
+
+
+</section>

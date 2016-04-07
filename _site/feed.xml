@@ -6,37 +6,35 @@
 </description>
     <link>/portfolio/</link>
     <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Apr 2016 21:20:27 -0700</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 21:20:27 -0700</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 11:34:18 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 11:34:18 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>ThredUP Zendesk</title>
-        <description>&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-12 project-summary&quot;&gt;
+        <title>ThredUP Support</title>
+        <description>&lt;section&gt;
   I redesigned the ThredUP Support Page.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;/section&gt;
+
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-6 project-problem&quot;&gt;
       &lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
-      Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
+      Users would directly email the Support team to ask simple questions that had already been answered on Zendesk.
   &lt;/div&gt;
   &lt;div class=&quot;col-md-6 project-role&quot;&gt;
     &lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
-      My role was conducting user research and studies.
-    &lt;/div&gt;
-
+      Creating additional iconography and implementing the frontend.
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;section&gt;
-&lt;h1 class=&quot;section-title&quot;&gt;User Research&lt;/h1&gt;
+&lt;h1 class=&quot;section-title&quot;&gt;Wireframing&lt;/h1&gt;
 
 I first pulled current data on users with Personal Shops. 
 &lt;/section&gt;
 
 &lt;section&gt;
-  &lt;h1 class=&quot;section-title&quot;&gt;Prototype v 1.0&lt;/h1&gt;
+  &lt;h1 class=&quot;section-title&quot;&gt;Prototyping&lt;/h1&gt;
   View the first iteration &lt;a href=&quot;http://share.framerjs.com/y2r6k8czd5k7/&quot;&gt;here&lt;/a&gt;.
   &lt;br /&gt;
   After testing my app, I&#39;ve learned the importance of 
@@ -46,8 +44,18 @@ I first pulled current data on users with Personal Shops.
 &lt;/section&gt;
 
 &lt;section&gt;
-  &lt;h1 class=&quot;section-title&quot;&gt;Prototype v 2.0&lt;/h1&gt;
-  See my prototype &lt;a href=&quot;http://share.framerjs.com/daab0qd1fmzh/&quot;&gt;here&lt;/a&gt;.
+  &lt;h1 class=&quot;section-title&quot;&gt;Iconography&lt;/h1&gt;
+  
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h1 class=&quot;section-title&quot;&gt;Final Product&lt;/h1&gt;
+  View the final Support Website &lt;a href=&quot;http://support.thredup.com&quot;&gt;here&lt;/a&gt;.
+  &lt;br /&gt;
+  After testing my app, I&#39;ve learned the importance of 
+
+  &lt;li&gt;Simplifying elements&lt;/li&gt;
+  &lt;li&gt;Working&lt;/li&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -58,20 +66,24 @@ I first pulled current data on users with Personal Shops.
 &lt;/section&gt;
 </description>
         <pubDate>Sat, 02 Apr 2016 14:22:04 -0700</pubDate>
-        <link>/portfolio/ux,/webdev/tusupport/</link>
-        <guid isPermaLink="true">/portfolio/ux,/webdev/tusupport/</guid>
+        <link>/portfolio/ux/tusupport/</link>
+        <guid isPermaLink="true">/portfolio/ux/tusupport/</guid>
         
         
-        <category>ux,</category>
-        
-        <category>webdev</category>
+        <category>ux</category>
         
       </item>
     
       <item>
         <title>TrashScan</title>
-        <description>TrashScan! 
-</description>
+        <description>&lt;section&gt;
+A more detailed write-up can be found &lt;a href=&quot;http://www.hackster.io/trashscan/trashscan-3ca9fe&quot;&gt;here&lt;/a&gt;. 
+&lt;br&gt;
+TrashScan has been featured as a &lt;a href=&quot;http://jacobsinstitute.berkeley.edu/student-project/trashscan/&quot;&gt;Project Spotlight&lt;/a&gt; for the Jacobs Institute for Design Innovation.
+
+
+
+&lt;/section&gt;</description>
         <pubDate>Sat, 02 Apr 2016 14:22:04 -0700</pubDate>
         <link>/portfolio/ux/trashscan/</link>
         <guid isPermaLink="true">/portfolio/ux/trashscan/</guid>
