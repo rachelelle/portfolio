@@ -12,7 +12,16 @@ external_url: http://www.hackster.io/trashscan/trashscan-3ca9fe
 A more detailed write-up can be found <a href="{{ page.external_url }}">here</a>. 
 <br>
 TrashScan has been featured as a <a href="http://jacobsinstitute.berkeley.edu/student-project/trashscan/">Project Spotlight</a> for the Jacobs Institute for Design Innovation.
-
-
-
 </section>
+
+<div class="row">
+  <div class="col-md-6 project-problem">
+  		<h2 class="block-title">Problem</h2>
+  		  Students do not care about throwing away their trash into the correct bin.
+  </div>
+  <div class="col-md-6 project-role">
+  	<h2 class="block-title">Role</h2>
+  		In my team of 5, my role was conducting ethnographic interviews and creating the animations in Processing.
+  	</div>
+
+</div>
