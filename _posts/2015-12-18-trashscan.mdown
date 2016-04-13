@@ -6,12 +6,13 @@ categories: ux
 label: UX Design, Raspberry Pi
 thumbnail: trashscan_thumb.png
 main-img: trashscan_thumb.png
-external_url: http://www.hackster.io/trashscan/trashscan-3ca9fe
+external_url: https://www.hackster.io/trashscan/trashscan-3ca9fe
 ---
 <section>
 A more detailed write-up can be found <a href="{{ page.external_url }}">here</a>. 
 <br>
-TrashScan has been featured as a <a href="http://jacobsinstitute.berkeley.edu/student-project/trashscan/">Project Spotlight</a> for the Jacobs Institute for Design Innovation.
+<br>
+TrashScan has been featured as a <a href="http://jacobsinstitute.berkeley.edu/student-project/trashscan/">Project Spotlight</a> for the Jacobs Institute for Design Innovation. Our team also had the honor of presenting our prototype to the Jacobs Institute Advisory Board.
 </section>
 
 <div class="row">
@@ -25,3 +26,28 @@ TrashScan has been featured as a <a href="http://jacobsinstitute.berkeley.edu/st
   	</div>
 
 </div>
+
+<section>
+<h1 class="section-title">Initial Research</h1>
+
+We interviewed two student staff workers from Cal Recycling. 
+</section>
+
+
+<section>
+<h1 class="section-title">Design Process</h1>
+
+We interviewed two student staff workers from Cal Recycling. 
+</section>
+
+<section>
+<h1 class="section-title">Final Prototype</h1>
+
+<iframe width="655" height="375" src="https://www.youtube.com/embed/xkhOMdKdvc4" frameborder="0" allowfullscreen></iframe>
+</section>
+
+<section>
+<h1 class="section-title">Takeaways</h1>
+
+We interviewed two student staff workers from Cal Recycling. 
+</section>

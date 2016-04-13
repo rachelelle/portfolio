@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  ThredUP Personal Shops 2.0
-date:   2015-08-02 14:22:04 -0700
+title: Immersio
+date: 2015-08-02 14:22:04 -0700
 categories: ux
-label: UX Design, Mobile Design
-thumbnail: thredup-ps.png
-main-img: thredup-ps.png
+label: UX Design, Virtual Reality
+thumbnail: immersio_thumb.png
+main-img: immersio.png
+external_url: https://www.behance.net/gallery/28274269/BI-x-Immersio-Virtual-Museum
 ---
 <section>
     During my summer internship at <a href="http://thredup.com">ThredUP</a>, the world's largest online fashion resale shop,  I was responsible for redesigning Personal Shops, a personalization feature that bookmarks product filters.
@@ -37,11 +38,6 @@ I first pulled current data on users with Personal Shops.
 
   <li>Simplifying elements</li>
   <li>Working</li>
-</section>
-
-<section>
-  <h1 class="section-title">Prototype v 2.0</h1>
-	See my prototype <a href="http://share.framerjs.com/daab0qd1fmzh/">here</a>.
 </section>
 
 <section>

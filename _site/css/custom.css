@@ -366,3 +366,9 @@ h4.about{
     padding: 5px;
     font-size: 11px;
 }
+
+.list-inline > li {
+  display: inline-block;
+  padding-right: 7px;
+  padding-left: 7px;
+}

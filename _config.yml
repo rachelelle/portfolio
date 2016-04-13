@@ -10,9 +10,7 @@ title: Rachel Lin
 email: rachellin@berkeley.edu
 logo: logo.svg
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Rachel Lin | Designer + Developer at Cal
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: rchlelle
@@ -24,7 +22,9 @@ social:
   - title: facebook
     url: http://facebook.com/lin.rachel
   - title: linkedin
-    url: http://linkedin.com/pub/rachel-lin/33/881/803/
+    url: http://linkedin.com/in/linrac
+  - title: pinterest
+    url: http://pinterest.com/rchlelle
   - title: behance
     url: http://behance.net/rachelelle
   - title: github

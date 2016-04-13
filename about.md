@@ -16,13 +16,16 @@ permalink: /about/
 	<br>
 	<h2 class="about">SF Bay Area native</h2>
 	<br>
-	<h2 class="about">INFJ</h2>
+	<h2 class="about">fashion + tech enthusiast</h2>
+	<br>
 	<h4 class="about"><i class="fa fa-heart fa-fw"></i>  art history, fashion, badminton, coffee, cooking, and baking</h4>
 </div>
 <div class="col-md-3 about-grid" id="contact">
 		<h1 class="about">Let's Talk!</h1>
 		<br>
 		<h2 class="about">rachellin@berkeley.edu</h2>
+		<br>
+		<h2 class="about"><a href="http://twitter.com/rchlelle">@rchlelle</a></h2>
 	</div>	
 
 </div>
@@ -39,9 +42,12 @@ permalink: /about/
 
 		<h3 class="skill-title">Web Development</h3>
 		HTML, CSS, JavaScript/jQuery, Ruby on Rails
-			</ul>
+
 		<h3 class="skill-title">Programming</h3>
 			Python, Java, Android
+
+		<h3 class="skill-title">Physical Design</h3>
+			Arduino/Raspberry Pi, 3D Printing
 	</div>	
 
 	<div class="col-md-8" id="about-grid-2">
