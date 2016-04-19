@@ -5,10 +5,10 @@ date:   2015-08-02 14:22:04 -0700
 categories: ux
 label: UX Design, Mobile Design
 thumbnail: thredup-ps.png
-main-img: thredup-ps.png
+main-img: thredup-ps-main.png
 ---
 <section>
-    Last summer, I had the honor of interning at <a href="http://thredup.com">ThredUP</a>, the world's largest online fashion resale shop, with the Product team. It was a wonderful combination of Product Management and Product Design. My main project for the summer was redesigning Personal Shops, a personalization feature that saves product filters.
+    Last summer, I had the honor of interning at <a href="http://thredup.com">ThredUP</a>, the world's largest online fashion resale shop, with the Product team. My role combined Product Management and Product Design. My main project for the summer was redesigning Personal Shops, a personalization feature that saves product filters.
 </section>
 
 <div class="row">
@@ -45,7 +45,6 @@ Based on my conversations with the users, I created a mental model to understand
     <li>How can we get coveted items first?</li>
 </ul>
 <br>
-<br>
 We also further refined the idea of creating a Style Profile for every account in order to set Sizes and top 10 brands.
 </section>
 
@@ -80,8 +79,8 @@ We also further refined the idea of creating a Style Profile for every account i
 <h1 class="section-title">Takeaways</h1>
 <ul>
 	<li>Involve other stakeholders earlier in the process to learn about potential contraints.</li>
-	<li>Simplicity and elegance rules. Think about information hierachy when considering the visual. Only emphasize what needs to be emphasized </li>
-	<li>Design is truly a team effort.</li>
+	<li>Simplicity and elegance rules. Think about information hierachy when considering the visual. Only emphasize what needs to be emphasized. </li>
+	<li>Don't be afraid to go deeper into understanding users' behaviors by constantly asking "why" questions during user testing.</li>
 </ul>
 </section>
 

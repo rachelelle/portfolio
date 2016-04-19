@@ -6,8 +6,8 @@
 </description>
     <link>/portfolio/</link>
     <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Apr 2016 02:28:13 -0700</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2016 02:28:13 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2016 03:06:38 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 03:06:38 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -66,6 +66,7 @@ Depending on the user’s role (whether they were a Shopper or a Seller), I want
       <item>
         <title>TrashScan</title>
         <description>&lt;section&gt;
+TrashScan is a revolutionary new way of waste management and sorting. With it, we can more easily sort trash into the correct bins: compost, bottles &amp; cans, mixed paper, and landfill. Simply place your trash on top of the platform and TrashScan will let you know which bin to place it in. This technology not only makes it easier to sort trash, but it works towards educating users on the intricacies of recycling and composting in order help communities achieve zero waste by 2020.
 A more detailed write-up can be found &lt;a href=&quot;https://www.hackster.io/trashscan/trashscan-3ca9fe&quot;&gt;here&lt;/a&gt;. 
 &lt;br&gt;
 &lt;br&gt;
@@ -75,7 +76,7 @@ TrashScan has been featured as a &lt;a href=&quot;http://jacobsinstitute.berkele
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-6 project-problem&quot;&gt;
   		&lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
-  		  Students do not care about throwing away their trash into the correct bin.
+  		  Students do not know what bin their trash belongs in. People don&#39;t care about what bin their trash belongs in. Cross-contamination in bins prevents composting.
   &lt;/div&gt;
   &lt;div class=&quot;col-md-6 project-role&quot;&gt;
   	&lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
@@ -87,7 +88,7 @@ TrashScan has been featured as a &lt;a href=&quot;http://jacobsinstitute.berkele
 &lt;section&gt;
 &lt;h1 class=&quot;section-title&quot;&gt;Initial Research&lt;/h1&gt;
 
-We interviewed two student staff workers from Cal Recycling. 
+We interviewed two student staff workers, Monica and Nicole, from Cal Recycling. 
 &lt;/section&gt;
 
 
@@ -103,11 +104,11 @@ We interviewed two student staff workers from Cal Recycling.
 &lt;iframe width=&quot;655&quot; height=&quot;375&quot; src=&quot;https://www.youtube.com/embed/xkhOMdKdvc4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;!-- &lt;section&gt;
 &lt;h1 class=&quot;section-title&quot;&gt;Takeaways&lt;/h1&gt;
 
 We interviewed two student staff workers from Cal Recycling. 
-&lt;/section&gt;</description>
+&lt;/section&gt; --&gt;</description>
         <pubDate>Sat, 02 Apr 2016 14:22:04 -0700</pubDate>
         <link>/portfolio/ux/trashscan/</link>
         <guid isPermaLink="true">/portfolio/ux/trashscan/</guid>
@@ -120,7 +121,7 @@ We interviewed two student staff workers from Cal Recycling.
       <item>
         <title>ThredUP Personal Shops 2.0</title>
         <description>&lt;section&gt;
-    Last summer, I had the honor of interning at &lt;a href=&quot;http://thredup.com&quot;&gt;ThredUP&lt;/a&gt;, the world&#39;s largest online fashion resale shop, with the Product team. It was a wonderful combination of Product Management and Product Design. My main project for the summer was redesigning Personal Shops, a personalization feature that saves product filters.
+    Last summer, I had the honor of interning at &lt;a href=&quot;http://thredup.com&quot;&gt;ThredUP&lt;/a&gt;, the world&#39;s largest online fashion resale shop, with the Product team. My role combined Product Management and Product Design. My main project for the summer was redesigning Personal Shops, a personalization feature that saves product filters.
 &lt;/section&gt;
 
 &lt;div class=&quot;row&quot;&gt;
@@ -157,7 +158,6 @@ Based on my conversations with the users, I created a mental model to understand
     &lt;li&gt;How can we get coveted items first?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br /&gt;
-&lt;br /&gt;
 We also further refined the idea of creating a Style Profile for every account in order to set Sizes and top 10 brands.
 &lt;/section&gt;
 
@@ -192,8 +192,8 @@ We also further refined the idea of creating a Style Profile for every account i
 &lt;h1 class=&quot;section-title&quot;&gt;Takeaways&lt;/h1&gt;
 &lt;ul&gt;
 	&lt;li&gt;Involve other stakeholders earlier in the process to learn about potential contraints.&lt;/li&gt;
-	&lt;li&gt;Simplicity and elegance rules. Think about information hierachy when considering the visual. Only emphasize what needs to be emphasized &lt;/li&gt;
-	&lt;li&gt;Design is truly a team effort.&lt;/li&gt;
+	&lt;li&gt;Simplicity and elegance rules. Think about information hierachy when considering the visual. Only emphasize what needs to be emphasized. &lt;/li&gt;
+	&lt;li&gt;Don&#39;t be afraid to go deeper into understanding users&#39; behaviors by constantly asking &quot;why&quot; questions during user testing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/section&gt;
 
