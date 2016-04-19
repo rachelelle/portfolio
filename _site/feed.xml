@@ -6,8 +6,8 @@
 </description>
     <link>/portfolio/</link>
     <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 12:49:29 -0700</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 12:49:29 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2016 01:42:26 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 01:42:26 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -19,51 +19,40 @@
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-6 project-problem&quot;&gt;
       &lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
-      Users would directly email the Support team to ask simple questions that had already been answered on Zendesk.
+      Customers would directly email the Customer Support team to ask simple questions that had already been answered on Zendesk. This would add unnecessary inefficiencies to their workflow.
   &lt;/div&gt;
   &lt;div class=&quot;col-md-6 project-role&quot;&gt;
     &lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
-      Creating additional iconography and implementing the frontend.
+      In collaboration with the Customer Support team, I organized the sections and articles they wanted to display to users. I mocked up a prototype, created additional iconography and implemented the frontend.
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;section&gt;
-&lt;h1 class=&quot;section-title&quot;&gt;Wireframing&lt;/h1&gt;
+&lt;h1 class=&quot;section-title&quot;&gt;Design Process&lt;/h1&gt;
+Depending on the user’s role (whether they were a Shopper or a Seller), I wanted them to be able to quickly and easily find their question under the many categories. A first path to finding the question would be to toggle between the two categories of “Shopping” and “Selling” at the top, then locate the appropriate category.  The second entry point would be a left side sliding, accordion style menu bar, that would nest further into the category clicked. I included both solutions in my sketch.
 
-I first pulled current data on users with Personal Shops. 
+&lt;p&gt;
+&lt;img src=&quot;/portfolio/img/portfolio/tusupport/sketch.jpg&quot; class=&quot;img-responsive center-block&quot; /&gt;
+ 
+
+
+&lt;section&gt;
+  &lt;h1 class=&quot;section-title&quot;&gt;Iconography&lt;/h1&gt;
+  I added icons to clearly signify the different section categories under “Shopping” and “Selling.” These were based on icons that can also be found on &lt;a href=&quot;http://thredup.com&quot;&gt;thredUP&lt;/a&gt;.
+  &lt;img src=&quot;/portfolio/img/portfolio/tusupport/icons.png&quot; class=&quot;img-responsive center-block&quot; /&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
   &lt;h1 class=&quot;section-title&quot;&gt;Prototyping&lt;/h1&gt;
-  View the first iteration &lt;a href=&quot;http://share.framerjs.com/y2r6k8czd5k7/&quot;&gt;here&lt;/a&gt;.
-  &lt;br /&gt;
-  After testing my app, I&#39;ve learned the importance of 
-
-  &lt;li&gt;Simplifying elements&lt;/li&gt;
-  &lt;li&gt;Working&lt;/li&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-  &lt;h1 class=&quot;section-title&quot;&gt;Iconography&lt;/h1&gt;
-  
+  Based on the sketch I drew during the design process, I made a prototype in Marvel. I shared this prototype with the Design and Customer Support to get their feedback. View the prototype for the website &lt;a href=&quot;https://marvelapp.com/8aijdh/&quot;&gt;here&lt;/a&gt;.
 &lt;/section&gt;
 
 &lt;section&gt;
   &lt;h1 class=&quot;section-title&quot;&gt;Final Product&lt;/h1&gt;
+  I coded the website in HTML, CSS, and JavaScript/jQuery. 
   View the final Support Website &lt;a href=&quot;http://support.thredup.com&quot;&gt;here&lt;/a&gt;.
-  &lt;br /&gt;
-  After testing my app, I&#39;ve learned the importance of 
-
-  &lt;li&gt;Simplifying elements&lt;/li&gt;
-  &lt;li&gt;Working&lt;/li&gt;
 &lt;/section&gt;
-
-&lt;section&gt;
-&lt;h1 class=&quot;section-title&quot;&gt;Takeaways&lt;/h1&gt;
-  &lt;li&gt;Lesson #1&lt;/li&gt;
-  &lt;li&gt;Lesson #2&lt;/li&gt;
-  &lt;li&gt;Lesson #3&lt;/li&gt;
-&lt;/section&gt;
+&lt;/p&gt;&lt;/section&gt;
 </description>
         <pubDate>Sat, 02 Apr 2016 14:22:04 -0700</pubDate>
         <link>/portfolio/ux/tusupport/</link>
@@ -200,42 +189,56 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
       <item>
         <title>Immersio</title>
         <description>&lt;section&gt;
-    During my summer internship at &lt;a href=&quot;http://thredup.com&quot;&gt;ThredUP&lt;/a&gt;, the world&#39;s largest online fashion resale shop,  I was responsible for redesigning Personal Shops, a personalization feature that bookmarks product filters.
+    Our team of four worked with Immersio, a VR/AR design company, in Spring 2015 to redesign an immersive virtual reality experience for art museum exhibitions. You can view more details on our &lt;a href=&quot;https://www.behance.net/gallery/28274269/BI-x-Immersio-Virtual-Museum&quot;&gt;Behance&lt;/a&gt;.
 &lt;/section&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-6 project-problem&quot;&gt;
   		&lt;h2 class=&quot;block-title&quot;&gt;Problem&lt;/h2&gt;
-  		  Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
+  		  Our client came to us with an open-ended proposal to redesign the experience of his existing virtual art gallery.
   &lt;/div&gt;
   &lt;div class=&quot;col-md-6 project-role&quot;&gt;
   	&lt;h2 class=&quot;block-title&quot;&gt;Role&lt;/h2&gt;
-  		My role was conducting user research and studies. I worked with multiple teams, such as Product, Engineering, Design, and Marketing, in the process of developing specs and receiving feedback.
+  		As the Team Lead, I was responsible for facilitating brainstorming sessions, conducting interviews for user research, and mocking up the medium-fidelity prototype in Photoshop.
   	&lt;/div&gt;
 
 &lt;/div&gt;
 
 &lt;section&gt;
 &lt;h1 class=&quot;section-title&quot;&gt;User Research&lt;/h1&gt;
-
-I first pulled current data on users with Personal Shops. 
+We visited art galleries in Downtown San Francisco and interviewed gallery owners and visitors to understand their motivations for purchasing art (if they happened to be buyers) and their thoughts of interacting with art virtually. 
+&lt;br&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;strong&gt;Findings:&lt;/strong&gt;
+  &lt;li&gt;We faced concern and resistance from art gallery owners and art buyers.&lt;/li&gt;
+  &lt;li&gt;It didn’t make sense for them to experience art virtually; they must see art in person before they consider purchasing.&lt;/li&gt;
+&lt;/ul&gt; 
+&lt;br&gt;
+Based on our findings, we decided to pivot from the original prompt to designing an educational, virtual reality experience at museums.  We identified our target users as art historians, students, and museum attendees.
 &lt;/section&gt;
 
 &lt;section&gt;
-	&lt;h1 class=&quot;section-title&quot;&gt;Prototype v 1.0&lt;/h1&gt;
-	View the first iteration &lt;a href=&quot;http://share.framerjs.com/y2r6k8czd5k7/&quot;&gt;here&lt;/a&gt;.
-  &lt;br&gt;
-  After testing my app, I&#39;ve learned the importance of 
+	&lt;h1 class=&quot;section-title&quot;&gt;Design Process&lt;/h1&gt;
+    Primary tasks:
+    &lt;li&gt;Selecting exhibits based on chronological order of exhibition&lt;/li&gt;
+    &lt;li&gt;Archiving&lt;/li&gt;
+    &lt;li&gt;Viewing artworks&lt;/li&gt;
+&lt;/section&gt;
 
-  &lt;li&gt;Simplifying elements&lt;/li&gt;
-  &lt;li&gt;Working&lt;/li&gt;
+&lt;section&gt;
+  &lt;h1 class=&quot;section-title&quot;&gt;Prototyping&lt;/h1&gt;
+    &lt;img src=&quot;/portfolio/img/portfolio/immersio/exhibit.png&quot; class=&quot;img-responsive center-block&quot;&gt;
+    &lt;br&gt;
+    &lt;img src=&quot;/portfolio/img/portfolio/immersio/closeup.png&quot; class=&quot;img-responsive center-block&quot;&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
 &lt;h1 class=&quot;section-title&quot;&gt;Takeaways&lt;/h1&gt;
-	&lt;li&gt;Lesson #1&lt;/li&gt;
-	&lt;li&gt;Lesson #2&lt;/li&gt;
-	&lt;li&gt;Lesson #3&lt;/li&gt;
+&lt;ul&gt;
+	&lt;li&gt;Findings from user research can pivot the original design and inform clients about the feasibility of their ideas.&lt;/li&gt;
+	&lt;li&gt;Designing for an unfamiliar interface such as virtual reality can be challenging with lack of design documentation, but there is more freedom to think outside of the box.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/section&gt;
 
 

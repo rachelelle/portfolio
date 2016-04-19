@@ -9,42 +9,56 @@ main-img: immersio.png
 external_url: https://www.behance.net/gallery/28274269/BI-x-Immersio-Virtual-Museum
 ---
 <section>
-    During my summer internship at <a href="http://thredup.com">ThredUP</a>, the world's largest online fashion resale shop,  I was responsible for redesigning Personal Shops, a personalization feature that bookmarks product filters.
+    Our team of four worked with Immersio, a VR/AR design company, in Spring 2015 to redesign an immersive virtual reality experience for art museum exhibitions. You can view more details on our <a href="https://www.behance.net/gallery/28274269/BI-x-Immersio-Virtual-Museum">Behance</a>.
 </section>
 
 <div class="row">
   <div class="col-md-6 project-problem">
   		<h2 class="block-title">Problem</h2>
-  		  Only a very small percentage of users onboarded to the feature, yet its users have the highest average order values.
+  		  Our client came to us with an open-ended proposal to redesign the experience of his existing virtual art gallery.
   </div>
   <div class="col-md-6 project-role">
   	<h2 class="block-title">Role</h2>
-  		My role was conducting user research and studies. I worked with multiple teams, such as Product, Engineering, Design, and Marketing, in the process of developing specs and receiving feedback.
+  		As the Team Lead, I was responsible for facilitating brainstorming sessions, conducting interviews for user research, and mocking up the medium-fidelity prototype in Photoshop.
   	</div>
 
 </div>
 
 <section>
 <h1 class="section-title">User Research</h1>
-
-I first pulled current data on users with Personal Shops. 
+We visited art galleries in Downtown San Francisco and interviewed gallery owners and visitors to understand their motivations for purchasing art (if they happened to be buyers) and their thoughts of interacting with art virtually. 
+<br>
+<br>
+<ul>
+<strong>Findings:</strong>
+  <li>We faced concern and resistance from art gallery owners and art buyers.</li>
+  <li>It didn’t make sense for them to experience art virtually; they must see art in person before they consider purchasing.</li>
+</ul> 
+<br>
+Based on our findings, we decided to pivot from the original prompt to designing an educational, virtual reality experience at museums.  We identified our target users as art historians, students, and museum attendees.
 </section>
 
 <section>
-	<h1 class="section-title">Prototype v 1.0</h1>
-	View the first iteration <a href="http://share.framerjs.com/y2r6k8czd5k7/">here</a>.
-  <br>
-  After testing my app, I've learned the importance of 
+	<h1 class="section-title">Design Process</h1>
+    Primary tasks:
+    <li>Selecting exhibits based on chronological order of exhibition</li>
+    <li>Archiving</li>
+    <li>Viewing artworks</li>
+</section>
 
-  <li>Simplifying elements</li>
-  <li>Working</li>
+<section>
+  <h1 class="section-title">Prototyping</h1>
+    <img src="{{ site.baseurl }}/img/portfolio/immersio/exhibit.png" class="img-responsive center-block">
+    <br>
+    <img src="{{ site.baseurl }}/img/portfolio/immersio/closeup.png" class="img-responsive center-block">
 </section>
 
 <section>
 <h1 class="section-title">Takeaways</h1>
-	<li>Lesson #1</li>
-	<li>Lesson #2</li>
-	<li>Lesson #3</li>
+<ul>
+	<li>Findings from user research can pivot the original design and inform clients about the feasibility of their ideas.</li>
+	<li>Designing for an unfamiliar interface such as virtual reality can be challenging with lack of design documentation, but there is more freedom to think outside of the box.</li>
+</ul>
 </section>
 
 
