@@ -10,7 +10,7 @@ external_url: http://support.thredup.com
 ---
 
 <section>
-  I redesigned the <a href="{{ page.external_url }}">ThredUP Support Page</a>.
+  As a part-time, remote Product Intern at thredUP for the last six months, I redesigned and implemented the <a href="{{ page.external_url }}">ThredUP Support Page</a>. The new Zendesk website allows thredUP’s two kinds of users, Shoppers and Sellers, to easily find answers to their questions.
 </section>
 
 <div class="row">

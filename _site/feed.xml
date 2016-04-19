@@ -6,14 +6,14 @@
 </description>
     <link>/portfolio/</link>
     <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Apr 2016 03:06:38 -0700</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2016 03:06:38 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2016 08:39:42 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 08:39:42 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>ThredUP Support</title>
         <description>&lt;section&gt;
-  I redesigned the &lt;a href=&quot;http://support.thredup.com&quot;&gt;ThredUP Support Page&lt;/a&gt;.
+  As a part-time, remote Product Intern at thredUP for the last six months, I redesigned and implemented the &lt;a href=&quot;http://support.thredup.com&quot;&gt;ThredUP Support Page&lt;/a&gt;. The new Zendesk website allows thredUP’s two kinds of users, Shoppers and Sellers, to easily find answers to their questions.
 &lt;/section&gt;
 
 &lt;div class=&quot;row&quot;&gt;
@@ -94,8 +94,23 @@ We interviewed two student staff workers, Monica and Nicole, from Cal Recycling.
 
 &lt;section&gt;
 &lt;h1 class=&quot;section-title&quot;&gt;Design Process&lt;/h1&gt;
-
-We interviewed two student staff workers from Cal Recycling. 
+Our first design included a box with lights positioned at the top. A camera would look into the box, and once the item was sorted, a light would indicate the correct bin. However, this initial design was too constricting and bulky, so we simplified out design to a flat platform. The user would place their trash onto the platform and a light attached to the right side of the platform would light up, much like the initial design. In our third design, we wanted to be able to add more to the device and have some sort of imagery to be displayed on the platform. Thus, we added in a projector next to the camera and removed the lights. The device would have a flat platform on which an image would be displayed. We would customize the image per bin. 
+&lt;br&gt;
+&lt;br&gt;
+For our final design, we used a monitor, which conveniently served both as the platform, as well as where the visuals and sound played from. We place this monitor inside a box.  Users would see an initial start screen, with simple instructions guiding them on how to use TrashScan.
+&lt;br&gt;
+&lt;br&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;&lt;img src=&quot;/portfolio/img/portfolio/trashscan/iteration1.png&quot; class=&quot;img-responsive center-block&quot;&gt;&lt;/div&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img src=&quot;/portfolio/img/portfolio/trashscan/iteration2.png&quot; class=&quot;img-responsive center-block&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img src=&quot;/portfolio/img/portfolio/trashscan/iteration3.png&quot; class=&quot;img-responsive center-block&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+Because signage is often hidden and ineffective for telling people what belongs in each bin, we wanted to display animations and play sounds to engage the user and associate each bin with a sound and graphic. We included facts stated during the interviews as part of the messaging. For compost, we played a victorious sound to encourage composting, and an error “wah-wah” noise to discourage people from using the landfill.
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -104,11 +119,16 @@ We interviewed two student staff workers from Cal Recycling.
 &lt;iframe width=&quot;655&quot; height=&quot;375&quot; src=&quot;https://www.youtube.com/embed/xkhOMdKdvc4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;
 
-&lt;!-- &lt;section&gt;
-&lt;h1 class=&quot;section-title&quot;&gt;Takeaways&lt;/h1&gt;
+&lt;section&gt;
+&lt;h1 class=&quot;section-title&quot;&gt;Final Thoughts&lt;/h1&gt;
 
-We interviewed two student staff workers from Cal Recycling. 
-&lt;/section&gt; --&gt;</description>
+&lt;ul&gt;
+&lt;strong&gt;For Future Iterations&lt;/strong&gt;
+	&lt;li&gt;Companion application for mobile&lt;/li&gt;
+	&lt;li&gt;Detecting multiple objects&lt;/li&gt;
+	&lt;li&gt;Detecting edge cases (plastic vs. compostable spoon)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;</description>
         <pubDate>Sat, 02 Apr 2016 14:22:04 -0700</pubDate>
         <link>/portfolio/ux/trashscan/</link>
         <guid isPermaLink="true">/portfolio/ux/trashscan/</guid>
