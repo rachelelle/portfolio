@@ -10,7 +10,7 @@ external_url: http://support.thredup.com
 ---
 
 <section>
-  I redesigned the ThredUP Support Page.
+  I redesigned the <a href="{{ page.external_url }}">ThredUP Support Page</a>.
 </section>
 
 <div class="row">
